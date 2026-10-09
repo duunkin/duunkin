@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Duunkin
 
-<!--
-**duunkin/duunkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend explorer focusing on algorithms, problem-solving, and system logic. Absolutely zero frontend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+- 🧠 **Competitive Programming:** Grinding data structures and algorithmic complexity.
+- ⚙️ **Backend & Core Logic:** Interested in clean architecture, performance, and how things work under the hood.
+
+### Toolbox
+- **Core Languages:** C++, Python
+- **Environment:** Linux, Git
+
+---
+*Focused on logic, performance, and solving hard problems.*
