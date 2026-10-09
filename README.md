@@ -10,7 +10,7 @@ Backend explorer focusing on algorithms, problem-solving, and system logic. Abso
 
 ### Toolbox
 - **Core Languages:** C++, Python
-- **Environment:** Linux, Git
+- **Environment:** Window, Git
 
 ---
 *Focused on logic, performance, and solving hard problems.*
